@@ -6,4 +6,11 @@
   <packaging>war</packaging>
   <name>salon01</name>
   <description>www</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-webmvc</artifactId>
+  		<version>3.2.0.RELEASE</version>
+  	</dependency>
+  </dependencies>
 </project>
