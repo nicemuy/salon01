@@ -16,7 +16,7 @@
 	
 	<filter-mapping>
 		<filter-name>encoding</filter-name>
-		<url-pattern>/app/*</url-pattern>
+		<url-pattern>/*</url-pattern>
 	</filter-mapping>
 	<listener>
 		<display-name>ContextLoader</display-name>
@@ -30,8 +30,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>spring</servlet-name>
-		<!-- 두가지중 편한 방법을 쓰면 될듯 -->
-		<!-- <url-pattern>*.do</url-pattern> -->
-		<url-pattern>/app/*</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 </web-app>
