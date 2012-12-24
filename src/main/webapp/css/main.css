@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+iframe{
+	position: relative;
+	left: 50%;
+	margin-left: -295px;
+}
+.vline{
+	height: 170px;
+	border-left: 1px solid rgb(238,238,238);
+}
+ul{
+	margin-left: 25%;
+}
+p,li a{
+	font-family: arial;
+	color: #898989;
+}
+li a{
+	line-height: 25px;
+}
+li{
+	list-style-type: none;
+}
+.row .span12 > p{
+	margin-top: 50px;
+	font-size: 8pt;
+	text-align: center;
+}
+.imggroup img{
+	width: 60px;
+	height: 40px;
+}
+.imggroup .second{
+	margin-top: 25px;
+}
+.imggroup .first a:last-child,.imggroup .second a:last-child{
+	margin-left: 50px;
+}
+.sns{
+	position: relative;
+	top: 50px;
+	left: 60px;
+}
