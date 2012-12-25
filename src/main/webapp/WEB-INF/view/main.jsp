@@ -4,6 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
 	<title>salon에 오신것을 환영합니다.</title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script src="${initParam.contextName}/js/bootstrap.min.js"></script>
