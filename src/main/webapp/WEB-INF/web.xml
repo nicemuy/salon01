@@ -3,7 +3,7 @@
 
 	<context-param>
 		<param-name>contextName</param-name>
-		<param-value>salon01</param-value>
+		<param-value>/salon01</param-value>
 	</context-param>
 
 	<filter>
