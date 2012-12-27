@@ -36,6 +36,15 @@ li{
 	font-size: 8pt;
 	text-align: center;
 }
+#banner{
+	display: block;
+	position: relative;
+	left: 50%;
+	width: 210px;
+	margin-left: -105px;
+	margin-top:46px;
+	margin-bottom:46px;
+}
 .imggroup img{
 	width: 60px;
 	height: 40px;
