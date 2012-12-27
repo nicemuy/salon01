@@ -15,7 +15,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="span10 offset1">
-					<img src="${initParam.contextName }/img/SALON01.png" alt="salon01" />
+					<a href="${initParam.contextName }/main"><img src="${initParam.contextName }/img/SALON01.png" alt="salon01" /></a>
 				</div>
 			</div>
 			<div class="row">
