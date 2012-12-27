@@ -15,7 +15,7 @@
 	<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver"
 		p:prefix="/WEB-INF/view/"
 		p:suffix=".jsp"/>
-	<bean id="" class="org.springframework.context.support.ResourceBundleMessageSource">
+	<bean id="message" class="org.springframework.context.support.ResourceBundleMessageSource">
 		<property name="basenames">
 			<list>
 				<value>messages.validation</value>
