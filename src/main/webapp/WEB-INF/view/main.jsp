@@ -23,7 +23,6 @@
 					<div id="myCarousel" class="carousel slide" data-interval="false">
 						<div class="carousel-inner">
 							<div class="active item">
-								<!-- 780x332 대동단결 -->
 								<img src="${initParam.contextName }/img/logo.jpg" alt="logo" />
 								<!-- caption
 							<div class="carousel-caption">
@@ -33,13 +32,13 @@
 							-->
 							</div>
 							<div class="item">
-								<iframe width="591" height="332" src="http://www.youtube.com/embed/0k1W_jfXimE" frameborder="0" allowfullscreen></iframe>
+								<iframe width="443" height="332" src="http://www.youtube.com/embed/k0ZHo8jiUdM" frameborder="0" allowfullscreen id="movie1"></iframe>
 							</div>
 							<div class="item">
-								<iframe width="591" height="332" src="http://www.youtube.com/embed/EVOWHSw_-iA" frameborder="0" allowfullscreen></iframe>
+								<iframe width="590" height="332" src="http://www.youtube.com/embed/-U1EapyCGKQ" frameborder="0" allowfullscreen id="movie2"></iframe>
 							</div>
 							<div class="item">
-								<iframe width="591" height="332" src="http://www.youtube.com/embed/EEk06XUik7E" frameborder="0" allowfullscreen></iframe>
+								<iframe src="http://player.vimeo.com/video/52985834?title=0&amp;byline=0&amp;portrait=0&amp;color=00ffe1" width="591" height="332" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen id="movie3"></iframe>
 							</div>
 						</div>
 						<!-- Carousel nav -->

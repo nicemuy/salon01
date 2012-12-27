@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+
+li{
+	list-style-type: none;
+	float:left;
+	margin : 0px 30px 0px 0px;
+}
+li a {
+	text-decoration: none;
+	color: #898989;
+	font-family: arial;
+	letter-spacing: 2px;
+}
+
+.active a{
+	font-weight: bold;	
+	color:#000000;
+}
+
+.row .span10 > hr{
+	margin : 8px 0px 0px 0px;
+}
+.row .span12 > p{
+	margin-top: 50px;
+	font-size: 8pt;
+	text-align: center;
+	font-weight: bold;
+}
+.works_box{
+	margin : 0px 0px 20px 10px;
+}
+
+.works_img {
+	float : left;
+	margin:0px 10px 0px 0px;
+}
+
+.works_img img{
+	width : 160px;
+	height : 160px;
+}
+
+.works_contents{
+	height : 160px;
+}
+
+.works_title {
+	font-size : 25px;
+	font-family: HY견명조, Gungsuh ;
+	margin: 0px 0px 15px 0px;
+	padding : 10px 0px 0px 0px;
+}
+
+.works_summary{
+	font-family: 나눔고딕, NanumGothic ;
+	margin: 15px 0px 0px 0px;
+}
+.emptyHeight{
+	height:30px;
+}
