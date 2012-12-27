@@ -1,5 +1,15 @@
 @CHARSET "UTF-8";
-iframe{
+#movie1{
+	position: relative;
+	left: 50%;
+	margin-left: -221px;
+}
+#movie2{
+	position: relative;
+	left: 50%;
+	margin-left: -295px;
+}
+#movie3{
 	position: relative;
 	left: 50%;
 	margin-left: -295px;
