@@ -72,10 +72,10 @@
 					<div class="span0.5 vline"></div>
 					<div class="span3">
 						<ul>
-							<li><a href="">WORKS</a></li>
-							<li><a href="">MANAGEMENT</a></li>
-							<li><a href="">VIDEO</a></li>
-							<li><a href="">MUSIC</a></li>
+							<li><a href="sub/works">WORKS</a></li>
+							<li><a href="sub/management">MANAGEMENT</a></li>
+							<li><a href="sub/video">VIDEO</a></li>
+							<li><a href="sub/music">MUSIC</a></li>
 							<li><a href="">CONTACT</a></li>
 						</ul>
 					</div>
