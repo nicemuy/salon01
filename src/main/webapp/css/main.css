@@ -1,15 +1,25 @@
 @CHARSET "UTF-8";
-#movie1{
-	position: relative;
-	left: 50%;
-	margin-left: -221px;
+@font-face{
+	font-family:NG;
+	src:url(../font/NanumGothic.eot);
+	src:local(※),url(../font/NanumGothic.woff) format('woff');
 }
-#movie2{
+#movie1{
 	position: relative;
 	left: 50%;
 	margin-left: -295px;
 }
+#movie2{
+	position: relative;
+	left: 50%;
+	margin-left: -221px;
+}
 #movie3{
+	position: relative;
+	left: 50%;
+	margin-left: -295px;
+}
+#movie4{
 	position: relative;
 	left: 50%;
 	margin-left: -295px;
@@ -22,7 +32,7 @@ ul{
 	margin-left: 25%;
 }
 p,li a{
-	font-family: arial;
+	font-family: 나눔고딕, NanumGothic, NG;
 	color: #898989;
 }
 li a{
@@ -59,4 +69,15 @@ li{
 	position: relative;
 	top: 50px;
 	left: 60px;
+}
+.carousel-control{
+	font-family: Helvetica,Georgia;
+	color: black;
+	background: none;
+	border: none;
+}
+.carousel-control:HOVER{
+	color: black;
+	background: none;
+	border: none;
 }

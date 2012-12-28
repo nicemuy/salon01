@@ -10,6 +10,7 @@
 	<script src="${initParam.contextName}/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="${initParam.contextName }/css/bootstrap.min.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="${initParam.contextName }/css/main.css" media="all" />
+	<link rel="shortcut icon" href="${initParam.contextName }/img/favicon.ico" />
 </head>
 <body>
 		<div class="container">
@@ -32,13 +33,16 @@
 							-->
 							</div>
 							<div class="item">
-								<iframe width="443" height="332" src="http://www.youtube.com/embed/k0ZHo8jiUdM" frameborder="0" allowfullscreen id="movie1"></iframe>
+								<iframe src="http://player.vimeo.com/video/53566035" width="590" height="332" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen id="movie1"></iframe>
 							</div>
 							<div class="item">
-								<iframe width="590" height="332" src="http://www.youtube.com/embed/-U1EapyCGKQ" frameborder="0" allowfullscreen id="movie2"></iframe>
+								<iframe width="443" height="332" src="http://www.youtube.com/embed/k0ZHo8jiUdM" frameborder="0" allowfullscreen id="movie2"></iframe>
 							</div>
 							<div class="item">
-								<iframe src="http://player.vimeo.com/video/52985834?title=0&amp;byline=0&amp;portrait=0&amp;color=00ffe1" width="591" height="332" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen id="movie3"></iframe>
+								<iframe width="590" height="332" src="http://www.youtube.com/embed/-U1EapyCGKQ" frameborder="0" allowfullscreen id="movie3"></iframe>
+							</div>
+							<div class="item">
+								<iframe src="http://player.vimeo.com/video/53018306" width="590" height="332" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen id="movie4"></iframe>
 							</div>
 						</div>
 						<!-- Carousel nav -->
@@ -72,11 +76,10 @@
 					<div class="span0.5 vline"></div>
 					<div class="span3">
 						<ul>
-							<li><a href="sub/works">WORKS</a></li>
-							<li><a href="sub/management">MANAGEMENT</a></li>
-							<li><a href="sub/video">VIDEO</a></li>
-							<li><a href="sub/music">MUSIC</a></li>
-							<li><a href="">CONTACT</a></li>
+							<li><a href="sub/works">회사소개</a></li>
+							<li><a href="sub/video">영상</a></li>
+							<li><a href="sub/music">뮤직</a></li>
+							<li><a href="">이메일</a></li>
 						</ul>
 					</div>
 					<div class="span0.5 vline"></div>
