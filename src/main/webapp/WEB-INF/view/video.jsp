@@ -24,7 +24,9 @@
 					</div>
 					<div class="works_contents">
 						<div class="works_title">
-							<img src="${initParam.contextName}/img/daum.png" alt="salon01" />
+							<a href = "http://tvpot.daum.net/mypot/Top.do?ownerid=dCsI7v2OexM0">
+								<img src="${initParam.contextName}/img/daum.png" alt="salon01" />
+							</a>
 							다음 뮤직
 						</div>
 						<div class="works_summary">
@@ -40,7 +42,9 @@
 					</div>
 					<div class="works_contents">
 						<div class="works_title">
-							<img src="${initParam.contextName}/img/loen.png" alt="salon01" />
+							<a href = "http://www.youtube.com/results?search_query=ask+in+a+box">
+								<img src="${initParam.contextName}/img/loen.png" alt="salon01" />
+							</a>
 						로엔 엔터테인먼트
 						</div>
 						<div class="works_summary">
@@ -56,7 +60,9 @@
 					</div>
 					<div class="works_contents">
 						<div class="works_title">
-							<img src="${initParam.contextName}/img/vimeoF.png" alt="salon01" />
+							<a href = "http://vimeo.com/viewtokill/videos">
+								<img src="${initParam.contextName}/img/vimeoF.png" alt="salon01" />
+							</a>
 							그외 영상들
 						</div>
 						<div class="works_summary">
