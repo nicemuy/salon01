@@ -23,7 +23,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="span10 offset1">
-				<img src="${initParam.contextName}/img/SALON01.png" alt="salon01" />
+				<a href="${initParam.contextName }/main" id="banner"><img src="${initParam.contextName }/img/SALON01.png" alt="salon01" /></a>
 			</div>
 		</div>
 		<div class="row">
@@ -36,15 +36,13 @@
 				<div>
 					<ul>
 						<li class="${pageId == 'works'? 'active':''}"><a
-							href="${initParam.contextName}/sub/works">WORKS</a></li>
-						<li class="${pageId == 'management'? 'active':''}"><a
-							href="${initParam.contextName}/sub/management">MANAGEMENT</a></li>
+							href="${initParam.contextName}/sub/works">회사소개</a></li>
 						<li class="${pageId == 'video'? 'active':''}"><a
-							href="${initParam.contextName}/sub/video">VIDEO</a></li>
+							href="${initParam.contextName}/sub/video">영상</a></li>
 						<li class="${pageId == 'music'? 'active':''}"><a
-							href="${initParam.contextName}/sub/music">MUSIC</a></li>
+							href="${initParam.contextName}/sub/music">뮤직</a></li>
 						<li class="${pageId == 'contact'? 'active':''}"><a
-							href="${initParam.contextName}/sub/contact">CONTACT</a></li>
+							href="${initParam.contextName}/sub/contact">이메일</a></li>
 					</ul>
 				</div>
 				<div class="pull-right">

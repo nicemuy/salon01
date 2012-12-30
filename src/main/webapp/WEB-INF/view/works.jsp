@@ -13,6 +13,11 @@
 <body>
 		<div class="row">
 			<div class="span10 offset1">
+			
+			<div class="explanation">
+			문화를 공유하고 창조합니다.<br />
+			문화 컨텐츠 컴퍼니, SALON01 입니다.
+			</div>
 				<div class="works_box">
 					<div class="works_img">
 						<img src="${initParam.contextName}/img/worksImg/exPic1.png" alt="salon01" />

@@ -19,12 +19,6 @@ public class MainController {
 		return mav;
 	}
 	
-	@RequestMapping("/sub/management")
-	public ModelAndView management(){
-		ModelAndView mav = new ModelAndView("management");
-		return mav;
-	}
-	
 	@RequestMapping("/sub/video")
 	public ModelAndView video(){
 		ModelAndView mav = new ModelAndView("video");
